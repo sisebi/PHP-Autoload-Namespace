@@ -1,0 +1,18 @@
+{
+    "name": "vendor/exemplo-autoload",
+    "description": "Descrição do projeto Exemplo-Autoload.",
+    "authors": [
+        {
+            "name": "Eliezer",
+            "email": "eliezer@email.here"
+        }
+    ],
+    "require": {
+    },
+    "autoload":{
+        "psr-4":{
+            "App\\":"App/",
+            "Estoque\\":"Estoque/"
+        }
+    }
+}

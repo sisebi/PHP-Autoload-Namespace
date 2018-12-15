@@ -1,0 +1,15 @@
+{
+    "name": "vendor/exemplo-autoload",
+    "description": "Descrição do projeto Exemplo-Autoload.",
+    "authors": [
+        {
+            "name": "Eliezer",
+            "email": "eliezer@email.here"
+        }
+    ],
+    "require": {
+    },
+    "autoload":{
+        "classmap":["Vendas","Estoque"]
+        }
+}
