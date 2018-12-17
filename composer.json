@@ -7,8 +7,7 @@
             "email": "eliezer@email.here"
         }
     ],
-    "require": {
-    },
+    "require": {},
     "autoload":{
         "psr-4":{
             "App\\":"App/",
